@@ -6,3 +6,5 @@ Includes amazing functions such as:
 - rename files in current directory
 
 Stand by for more amazing functions of this wonderful python script!
+
+# Bottom text
